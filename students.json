@@ -1,0 +1,30 @@
+[
+    {
+      "STT": 1,
+      "HoTen": "Nguyễn Minh Anh",
+      "NgaySinh": "28/05/2007",
+      "ChucVu": "TNXK",
+      "ChiTiet": "Xem chi tiết"
+    },
+    {
+      "STT": 2,
+      "HoTen": "Mai Đức Hoàng",
+      "NgaySinh": "11/12/2007",
+      "ChucVu": "",
+      "ChiTiet": "Xem chi tiết"
+    },
+    {
+      "STT": 3,
+      "HoTen": "Nguyễn Đức Dũng",
+      "NgaySinh": "14/04/2007",
+      "ChucVu": "TNXK",
+      "ChiTiet": "Xem chi tiết"
+    },
+    {
+      "STT": 4,
+      "HoTen": "Hoàng Trung Hiếu",
+      "NgaySinh": "05/08/2007",
+      "ChucVu": "",
+      "ChiTiet": "Xem chi tiết"
+    }
+  ]

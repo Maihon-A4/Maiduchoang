@@ -1,0 +1,49 @@
+  
+  .timetable {
+    text-align: left;
+  }
+  
+  
+  .timetable h2 {
+    color: black;
+  }
+  
+  
+  table {
+    margin: auto;
+    border-collapse: collapse;
+    width: 90%;
+    max-width: 800px;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+  }
+  
+  
+  table,
+  th,
+  td {
+    border: 1px solid #cdfb61;
+  }
+  
+  
+  th,
+  td {
+    padding: 10px;
+    text-align: left;
+  }
+  
+  
+  th {
+    background-color: #0f4c75;
+  }
+  
+  
+  tr:nth-child(even) {
+    background-color: rgba(255, 255, 255, 0.05);
+  }
+  
+  
+  tr:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+  }
+  
